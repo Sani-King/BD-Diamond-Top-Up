@@ -1,0 +1,7 @@
+.abm{
+    display: grid;
+    grid-template-colum: repeat (4,65px)
+}
+.sani{
+   color: blue
+}
