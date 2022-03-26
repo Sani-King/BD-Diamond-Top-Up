@@ -1,0 +1,23 @@
+.abm{
+    display: grid;
+    grid-template-colum: repeat (4,65px)
+}
+.sani{
+   color: blue
+}
+.ttt{
+   color: lawngreen;
+   width: 47vh;
+   height: 6vh;
+   background: blanchedalmond;
+}
+.h{
+   position: absolute;
+   top: 17vh;
+   left: 17vh;
+}
+.h1{
+   position: absolute;
+   top: 9vh;
+   left: 20vh;
+}
